@@ -11510,7 +11510,9 @@ html {
 }
 
 .list{
+  text-transform: uppercase;
+  text-align: center;
+  left: -90px;
   position: relative;
-  /* text-align: center; */
-  left: 200px;
+  
 }
